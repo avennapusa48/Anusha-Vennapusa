@@ -5,3 +5,5 @@
 .client-label{font-size:.7em;font-weight:500;color:var(--accent)}
 
 .demo-grid{margin-top:35px}.demo-grid .project:first-child{grid-column:auto}
+
+.certification-highlight{display:flex;align-items:center;gap:14px;margin-top:28px;padding:16px 20px;border:1px solid #a7cbbd;border-left:4px solid var(--accent);border-radius:5px;background:#e9f2ec;max-width:390px}.certification-mark{display:grid;place-items:center;width:34px;height:34px;flex-shrink:0;border-radius:50%;background:var(--accent);color:white;font-weight:700}.certification-caption{display:block;font-size:9px;font-weight:700;letter-spacing:2px;color:var(--accent)}.certification-highlight strong{display:block;font-family:Manrope,sans-serif;font-size:17px;line-height:1.5}.education .palantir-cert{padding:22px;border:1px solid #a7cbbd;border-left:4px solid var(--accent);border-radius:5px;background:#e9f2ec}
